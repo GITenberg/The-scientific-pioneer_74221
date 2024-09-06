@@ -1,0 +1,37 @@
+_repo: The-scientific-pioneer_74221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson Slade
+    - Bond, Nelson
+    - Danzell, George
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2024-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74221'
+language: en
+pgterms:marc905: 20240522124151bond
+pgterms:marc906: '1940'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1940.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Horse-Sense Hank, 1
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+title: The scientific pioneer
+url: http://www.gutenberg.org/ebooks/74221
